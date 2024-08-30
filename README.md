@@ -1,4 +1,4 @@
-# Laravel 9 快速向 Google Chat 發送通知
+# Laravel 10 快速向 Google Chat 發送通知
 
 引入 guywarner 的 laravel-google-chat-alerts 套件來擴增快速向 Google Chat 發送通知，可以使用它來通知應用程式中發生的任何值得注意的事件。
 
