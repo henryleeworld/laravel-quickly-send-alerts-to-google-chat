@@ -8,6 +8,6 @@ class GoogleChatController extends Controller
 {
     public function send() 
     {
-        GoogleChatAlert::message("您好， 歡迎光臨。");
+        GoogleChatAlert::message(__('Hello, Welcome!'));
     }
 }
